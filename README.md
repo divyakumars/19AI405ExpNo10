@@ -12,7 +12,7 @@ To solve Implementation of Classical Planning Algorithm using python.
   <li>Find a <b>plan</b> to reach the goal state</li>
   <li>Print the plan</li>
 </ol>
-
+ 
 # Example - 1
 ```
 initial_state = {'A': 'Table', 'B': 'Table'}
